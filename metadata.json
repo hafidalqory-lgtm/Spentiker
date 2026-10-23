@@ -1,0 +1,6 @@
+{
+  "name": "Bank Data Siswa SMP Negeri 3 Kertek",
+  "description": "Aplikasi validasi, pemeriksaan, dan pengelolaan Bank Data Siswa SMP Negeri 3 Kertek serta Layanan Pengaduan Lapor Spentiker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
